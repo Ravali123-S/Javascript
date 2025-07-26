@@ -1,0 +1,3 @@
+node filenanme.js
+
+to run in vs code..
